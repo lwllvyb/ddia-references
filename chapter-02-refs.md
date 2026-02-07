@@ -135,7 +135,7 @@ Chapter 2 References
     Neo Technology, 2013.
 
 1.  Emil Eifrem:
-    [Twitter correspondence](https://twitter.com/emileifrem/status/419107961512804352), January 3, 2014.
+    [Twitter correspondence](https://web.archive.org/web/20231015041442/https://twitter.com/emileifrem/status/419107961512804352), January 3, 2014.
 
 1.  David Beckett and Tim Berners-Lee:
     “[Turtle – Terse RDF Triple Language](http://www.w3.org/TeamSubmission/turtle/),”
